@@ -16,7 +16,7 @@ Use the following options to have it look exactly like in the screenshot above.
 
 ## Related
 
-- [alfred-macos](https://github.com/vinkla/alfred-macos) - A macOS spotlight theme for Alfred
+- [alfred-composer](https://github.com/sindresorhus/alfred-composer) - Search for Composer packages with Packagist
 - [alfred-npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with npms.io
 - [alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 
