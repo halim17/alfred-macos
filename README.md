@@ -16,9 +16,8 @@ Use the following options to have it look exactly like in the screenshot above.
 
 ## Related
 
-- [alfred-composer](https://github.com/sindresorhus/alfred-composer) - Search for Composer packages with Packagist
-- [alfred-npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with npms.io
-- [alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
+- [alfred-composer](https://github.com/vinkla/alfred-composer) - Search for Composer packages with Packagist
+- [alfred-lmgtfy](https://github.com/vinkla/alfred-lmgtfy) - Let me Google that for you link generator
 
 ## License
 
