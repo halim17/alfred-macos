@@ -16,8 +16,8 @@ Use the following options to have it look exactly like in the screenshot above.
 
 ## Related
 
-- [alfred-composer](https://github.com/vinkla/alfred-composer) - Search for Composer packages with Packagist
-- [alfred-lmgtfy](https://github.com/vinkla/alfred-lmgtfy) - Let me Google that for you link generator
+- [alfred-lmgtfy](https://github.com/vinkla/alfred-lmgtfy) - Let me Google that for you link generator.
+- [alfred-packagist](https://github.com/vinkla/alfred-packagist) - Search for PHP packages with Packagist.
 
 ## License
 
