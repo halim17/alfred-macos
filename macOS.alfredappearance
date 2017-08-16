@@ -14,7 +14,7 @@
         "font" : "System",
         "color" : "#A4A4A49B"
       },
-      "backgroundSelected" : "#0000000F",
+      "backgroundSelected" : "#0000000C",
       "text" : {
         "size" : 16,
         "colorSelected" : "#000000EF",
@@ -27,7 +27,7 @@
     },
     "search" : {
       "paddingVertical" : 2,
-      "background" : "#F9F9F900",
+      "background" : "#EEF1F300",
       "spacing" : 10,
       "text" : {
         "size" : 24,
@@ -38,13 +38,13 @@
       "backgroundSelected" : "#B2D7FFFF"
     },
     "window" : {
-      "color" : "#FFFFFFF1",
+      "color" : "#EEF1F3FF",
       "paddingHorizontal" : 10,
       "width" : 560,
       "borderPadding" : 10,
       "borderColor" : "#00000000",
       "blur" : 0,
-      "roundness" : 3,
+      "roundness" : 7,
       "paddingVertical" : 10
     },
     "credit" : "Vincent Klaiber",
