@@ -14,7 +14,7 @@
         "font" : "System",
         "color" : "#A4A4A49B"
       },
-      "backgroundSelected" : "#0000000C",
+      "backgroundSelected" : "#0000000F",
       "text" : {
         "size" : 16,
         "colorSelected" : "#000000EF",
@@ -27,7 +27,7 @@
     },
     "search" : {
       "paddingVertical" : 2,
-      "background" : "#EEF1F300",
+      "background" : "#F9F9F900",
       "spacing" : 10,
       "text" : {
         "size" : 24,
@@ -38,7 +38,7 @@
       "backgroundSelected" : "#B2D7FFFF"
     },
     "window" : {
-      "color" : "#EEF1F3FF",
+      "color" : "#FFFFFFF1",
       "paddingHorizontal" : 10,
       "width" : 560,
       "borderPadding" : 10,
