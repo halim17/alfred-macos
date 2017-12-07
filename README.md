@@ -16,7 +16,7 @@ Use the following options to have it look exactly like in the screenshot above.
 
 ## Related
 
-- [alfred-devdocs](https://github.com/vinkla/alfred-devdocs) - Search documentation with DevDocs.
+- [alfred-devdocs](https://github.com/vinkla/alfred-devdocs) - Search documentation on DevDocs.
 - [alfred-kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
 - [alfred-packagist](https://github.com/vinkla/alfred-packagist) - Search for PHP packages with Packagist.
 
