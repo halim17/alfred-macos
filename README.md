@@ -1,6 +1,6 @@
 # alfred-macos
 
-![alfred-macos](https://user-images.githubusercontent.com/499192/29376804-133a988a-82ba-11e7-9d2e-017a4d8b7dcf.png)
+![alfred-macos](https://user-images.githubusercontent.com/499192/41279237-39e6586c-6e2c-11e8-80da-8479c9325185.png)
 
 A macOS spotlight theme for Alfred.
 
